@@ -1,0 +1,71 @@
+div{
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+color: black;
+padding: 25px;
+font-weight: 300;
+text-align: justify;;
+
+    
+}
+
+    div:nth-of-type(even){
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#genel{
+    background-image:url("https://static.tvtropes.org/pmwiki/pub/images/benjamin_button_aging_backwards_8.png");
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+#old{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBEPt5KVKYgcLpxI13tDo1Nb0C51JgjRZZNw&usqp=CAU");
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+#fifties{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMkcBuBPWOa11JwkE4jr8GfsnJA0_GxOXEGg&usqp=CAU);
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+#thirdies{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnY974E5b3OI_JQImmGGgqGPCJzuSIh61WBw&usqp=CAU);
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    
+
+}
+
+#child{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPh_UEMZGroLVXp6B27mpvdK-ESjYuqc9lfQ&usqp=CAU);
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+
